@@ -1,0 +1,33 @@
+.jumbotron{
+  background-color: black;
+  color: white;
+}
+.col-sm-3{
+  
+  color: teal;
+  flex: 1 4000px
+}
+
+.btn{
+  background-color: black;
+  color: white;
+}
+
+.container-footer{
+  background-color: black;
+  
+}
+
+.btn-reserva{
+  width: 100%;
+
+}
+.col{
+  color: white;
+}
+.card-reserva{
+  
+  color: teal;
+  flex: 1 150px
+}
+
